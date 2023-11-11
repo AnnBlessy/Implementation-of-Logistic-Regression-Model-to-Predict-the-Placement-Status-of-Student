@@ -113,6 +113,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![EXP4-11](https://github.com/AnnBlessy/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477835/dfc725d5-f0d5-4cd5-9946-98bb5af4f231)
 
+![EXP4-12](https://github.com/AnnBlessy/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477835/b8de09dc-da5b-4818-9f50-f07f92c31391)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
